@@ -4,7 +4,7 @@
     - name: Full Name
       value: Parsa Haddadian
     - name: Date of Birth
-      value: 18th June 1997
+      value: 18th June 1997 (28 Khordad 1376)
     - name: Languages
       value: Persian, Kurdish, English
 
@@ -29,18 +29,18 @@
         - "Supervisor: <a href=https://scholar.google.com/citations?user=d8uF078AAAAJ&hl=en>Prof. Fardin Abdali-Mohammadi</a>"
 
 - title: Research Interests
-  type: nested_list
+  type: list
   contents:
-    - title: Graph Machine Learning.
+    - Graph Machine Learning.
       # items:
       #   - Description 1.
       #   - Description 2.
-    - title: Theoretical Machine Learning / Deep Learning.
+    - Theoretical Machine Learning / Deep Learning.
       # items:
       #   - Description 1.
       #   - Description 2.
-    - title: AI for Medicine.
-    - title: Computer Vision.
+    - AI for Medicine.
+    - Computer Vision.
 
 
 # - title: Experience
